@@ -1,0 +1,63 @@
+
+		.pilih a {
+			color : white;
+		}
+		
+		.pilih{
+			background-color : red ;
+			max-height: 145px;
+			max-width: 145px;
+		}
+		
+		a {
+			text-decoration : none;
+		}
+		
+		.biasa a{
+			color : red;
+		}
+		
+		.biasa{
+			background-color:white;
+			max-height: 145px;
+			max-width: 145px;
+		}
+		
+		.poj {
+			margin-left: auto;
+		}
+		
+		.poj a,.menu a{
+			color:white;
+		}
+		
+		.menu{
+			display:flex;
+			flex-direction: row;
+			justify-content: flex-start;
+		}
+		
+		
+		#BoxModel{
+			background: white;
+			border: 1px solid black;
+			padding: 5px;
+			width: 97%;
+			height: 95%;
+			margin: 5px;
+		}
+		
+		#BOX{
+			display:flex;
+			flex-direction: row;
+			justify-content: flex-start;
+		}
+		
+		#iklan{
+			margin-left: auto;
+		}
+		
+		#BOX{
+			width:65%;
+			height:500px;
+		}
